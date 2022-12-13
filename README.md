@@ -1,4 +1,4 @@
-# Text-Analysis-Text-Patterns
+# Text-Mining-Text-Patterns
 
 # Overview
 
